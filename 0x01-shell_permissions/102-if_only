@@ -1,2 +1,2 @@
 #!/bin/bash
-chgown --fromguillaume betty hello
+chgown --from-guillaume betty hello
